@@ -1,1 +1,0 @@
-### · Small exercise to practice with JavaScript and LocalStorage ·
